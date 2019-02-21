@@ -4,6 +4,8 @@
 Course project in Intro to AI focused on utilizing graph algorithms and seacrh heurestics for our Pac-man agent
 `Dependencies` : `python 2.7` `util.py`
 
+**Code will be uploaded at the end of semester due to respect for academic honestly of other students**
+
 ## Tasks
 **`Search.py`** 
 - Depth First Search 
